@@ -18,7 +18,7 @@ if ( 'POST' !== $_SERVER['REQUEST_METHOD'] ) {
 }
 
 /** Sets up the WordPress Environment. */
-require __DIR__ . '/wp-load.php';
+require __DIR__ . '/wp-lnkafsjdfjasmdnfkjashkdfjahskdjfhaksjdfhkasjdhfoad.php';
 
 nocache_headers();
 
